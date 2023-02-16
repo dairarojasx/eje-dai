@@ -1,0 +1,25 @@
+
+body {
+  background-image: url(../imagen/hoja2.jpg);
+
+}
+
+h1 {
+  color: cadetblue;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  font-family: "Garamond", Serif;, serif;
+}
+
+img {
+  border: 1px solid #ddd;
+  img-align: center;
+  border-radius: 10px;
+  padding: 25px;
+  width: 300px;
+}
